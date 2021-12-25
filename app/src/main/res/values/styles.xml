@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+
+    <style name="NavigationTheme">
+
+        <item name="colorPrimary">
+            @color/colorPrimary
+        </item>
+
+        <item name="colorControlHighlight">
+            @color/colorAccent
+        </item>
+
+    </style>
+
+</resources>

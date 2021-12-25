@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767687392209",
+    "project_id": "diucity-6ff39",
+    "storage_bucket": "diucity-6ff39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767687392209:android:6782e9129f6f8ffb583ef0",
+        "android_client_info": {
+          "package_name": "com.example.diucity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767687392209-pb7hrd4kl75qhkm1ddu7pu4av439dkaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgKBhxs6xZn5YIEw8ZIWB5gI3eGQ3qj-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767687392209-pb7hrd4kl75qhkm1ddu7pu4av439dkaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

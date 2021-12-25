@@ -1,0 +1,308 @@
+<resources>
+    <string name="app_name">Smartzzy</string>
+    <string name="rules">Please check travel advisory issued by the concerned state government before booking, as some places may have COVID-19 related travel/lodging restrictions.\n\nGuest can check in using any ID proof\n\nfollow safety measures advised at the hotel</string>
+
+    <string name="category_name_Tourist" translatable="false">TOURIST</string>
+    <string name="category_name_Malls" translatable="false">MARKET</string>
+    <string name="category_name_Eduction" translatable="false">EDUCTION</string>
+    <string name="item_hightlight_txt" translatable="false">HIGHLIGHT</string>
+    <string name="intent_extra_item_title">PLACE_TITLE</string>
+
+
+    <string name="First_title">Maharaja Super Market In Diu</string>
+    <string name="First_location">Near Diu Fort</string>
+    <string-array name="First_highlights">
+        <item>One can shop for electronic items and latest gadgets which are available at extremely reasonable prices. The vendors at the beach sell trinkets and handmade items made of pearls and seashells which are a nice buy.Handicrafts made of straw and leather slippers are other interesting local things which can be bought in this small island. The main shopping markets here are the Princess Park and the Maharaja super market.</item>
+    </string-array>
+
+
+
+    <string name="SECOND_title">Princess Park Shopping Market in Diu</string>
+    <string name="SECOND_location">Situated in middle of water</string>
+    <string-array name="SECOND_highlights">
+        <item>   This is another good place for shopping in Diu as it is most famous for the attractive bamboo items, gift articles etc. Princess Park is the most ideal place for buying handicrafts in Diu and decorative jewelry made of pearls by the local craftsmen.</item>
+    </string-array>
+
+
+
+    <string name="THIRD_title">ACE Shopping Mall</string>
+    <string name="THIRD_location">Address:  Daman – Kunta Road</string>
+    <string-array name="THIRD_highlights">
+        <item>One of the best places for shopping in Daman and finding A to Z products in one place. The prices of many products are affordable when compared to other similar shopping malls in Daman. This is a kid and family-friendly shopping mall. There are fashion clothing stores, leather products shops, and gift shops and novelty stores. It does have eatery and beverages places. It has ambient car parking places on the ground floor and basement in this 2-story shopping mall in Daman.</item>
+    </string-array>
+
+
+
+
+    <string name="FOURTH_title"> DMC Market</string>
+    <string name="FOURTH_location">Address: Old Vegetable Market, Kavi Khabardar Road</string>
+    <string-array name="FOURTH_highlights">
+        <item>Locally, the people of Daman call it a Dubai Market. This is because you can bargain and buy a variety of products at an affordable price as in Dubai Souks. You can buy from organic groceries home needs from this market. People mostly come here to buy cheap electronic products. They sell the latest in electronic gadgets, which are lifestyle products too. You can find many souvenir shops without a price tag. Bargaining power is necessary from the consumer side to shop from this market in Daman.</item>
+    </string-array>
+
+
+
+
+    <string name="FIFTH_title">Mangal Market</string>
+    <string name="FIFTH_location">Address: Old Vegetable Market, Tin Batti, Diu</string>
+    <string-array name="FIFTH_highlights">
+        <item>For Perfumes And Chocolates ,Another one of the cheap shopping places in Daman is Mangal Market where you can buy apparel, perfumes, chocolates and more. If you want to explore a local market in Daman then Mangal Market is the most famous one. You can shop for all clothes, jewelry, seashell items, bamboo baskets at this market. If you are a foodie then you are going to love this market as it has amazing restaurants that serve delicious food. Make your shopping spree all about splurging on souvenirs and street food!</item>
+    </string-array>
+
+
+
+
+    <string name="Park_title"> MALL JOYTI PARK</string>
+    <string name="Park_location">Near Diu Fort</string>
+    <string-array name="Park_highlights">
+        <item>This is one of the top places for shopping in Daman. This is the best place for tourists to avail of money exchange, tours, and travel-related service providers. You can buy the latest fashion clothing for kids, men, and women. There are top brands clothing stores in this shopping mall. People interested in buying mini electronics can find many affordable electronic shops. Apart from shopping, you can have food and seek entertainment from this mall. It will take a half a day to explore this 3-floor mall in a commercial and residential complex in Daman. It has parking places in front of this mall.</item>
+
+    </string-array>
+
+
+
+
+
+
+    <string name="IIITVICD_title">IIITV-ICD</string>
+    <string name="IIITVICD_location">5 km from diu bus stand</string>
+    <string-array name="IIITVICD_highlights">
+        <item>Indian Institute of Information Technology Vadodara International Campus Diu (IIITV-ICD) is a satellite campus of Indian Institute of Information Technology Vadodara (IIIT Vadodara, an Institute of National Importance by an Act of Parliament) .
+</item>
+        <item>The IIITV-ICD will admit its first batch of undergraduate students from Academic Year 2020-21. IIITV-ICD has been accommodated in the state of art campus of “Education Hub” at Diu.</item>
+    </string-array>
+
+
+    <string name="VEDIK_title">VEDIK DENTAL HOSPITAL</string>
+    <string name="VEDIK_location">12 km from city center</string>
+    <string-array name="VEDIK_highlights">
+        <item>Vaidik Dental College and Research Center is located in Daman. It is recognized by the Dental Council of India and is affiliated to Gujarat University. The college offers courses such as BDS and MDS.</item>
+        <item>Admission to the courses is done on the basis of entrance examinations such as NEET UG/ GUJCET/ MH CET/ NEET MDS. Candidates can apply for the desired course in online mode. Vaidik Dental College and Research Center is equipped with facilities such as Hostels, Canteen, Library, Hospital and many more.  </item>
+
+    </string-array>
+
+
+
+    <string name="DIUCLG_title">DIU COLLEGE</string>
+    <string name="DIUCLG_location">Near Railway Station </string>
+    <string-array name="DIUCLG_highlights">
+        <item>College that provide higher eduction about B.A/B.COM .</item>
+        <item>DIU COLLEGE, DIU Diu Higher Education Society, Diu (Affiliated to Saurashtra University, Rajkot) Phone: 02875 254115 Email: diucollege.diu-dd@nic.in, diucollege@gmail.com</item>
+    </string-array>
+
+
+
+    <string name="GALAXY_title">Galaxy English Medium School</string>
+    <string name="GALAXY_location">Diu - Vanakbara Main Road, 254899</string>
+    <string-array name="GALAXY_highlights">
+        <item> Features
+Class V - Class X
+Private School
+Co-Educational School
+Established in 1985</item>
+
+    </string-array>
+
+
+
+    <string name="JAWAHAR_title">Jawahar Navodaya Vidyalaya </string>
+    <string name="JAWAHAR_location">Bucharwada, Diu,  India</string>
+    <string-array name="JAWAHAR_highlights">
+        <item>2875) 271359
+mail_outline
+(2875) 271359
+email
+
+web_asset
+School Website
+Affiliated with:
+
+CBSE - Central Board of Secondary Education
+group
+Navodaya Vidyalaya Samiti
+Features
+Class X - Class XII
+CBSE Board
+Government School
+Co-Educational School</item>
+    </string-array>
+
+
+    <string name="KV_title">Kendriya Vidyalaya </string>
+    <string name="KV_location">Nagoa Road, Govt. High School Campus</string>
+    <string-array name="KV_highlights">
+        <item>(02875) 253348
+mail_outline
+(02875) 254648
+email
+
+Affiliated with:
+
+CBSE - Central Board of Secondary Education
+group
+Kendriya Vidyalaya Sangathan
+Features
+Class V - Class XII
+CBSE Board
+Government School (Kendriya Vidyalaya)
+Co-Educational School</item>
+
+    </string-array>
+
+    <string name="Fort_title">Diu Fort</string>
+    <string name="Fort_location">Fort Road, Near PWD Office</string>
+    <string-array name="Fort_highlights">
+    </string-array>
+
+
+
+    <string name="Albert_hall_title">Diu Museum</string>
+    <string name="Albert_hall_location">Situated in Saint Thomas Church</string>
+    <string-array name="Albert_hall_highlights">
+        <item>Diu Museum St. Thomas Church, Diu The old St. Thomas Church has been converted into a museum which houses antique statues, various stone inscriptions of the earlier rulers</item>
+        <item>The church had been built in 1598 but was later converted into a museum. </item>
+    </string-array>
+
+
+
+    <string name="Naida_title">Naida Caves</string>
+    <string name="Naida_location">DIU city, adjacent to main road</string>
+    <string-array name="Naida_highlights">
+        <item> Naida caves, Diu are located outside the city wall of the Diu Fort</item>
+        <item>Caves feature a big network of tunnels with square hewn steps, which is yet to be fully explored.</item>
+        <item>The Naida cave at Diu, India, created by the Portuguese. While proper rectangular steps are fabricated at several junctions with red arrows showing the path through the rocks.</item>
+    </string-array>
+
+
+
+    <string name="Jampore_title">Jampore Beach</string>
+    <string name="Jampore_location"> Near,Diu Fort</string>
+    <string-array name="Jampore_highlights">
+        <item>Jampore Beach, Daman and Diu Overview Jampore Beach is one of the most renowned beaches located in Daman. </item>
+        <item>The place is surrounded by attractive landscapes and serene ambience and makes for a perfect holiday retreat. </item>
+        <item> Jampore Beach is an ideal spot for picnicking and family outings.</item>
+    </string-array>
+
+
+
+    <string name="Nagoa_title">Nagoa Beach</string>
+    <string name="Nagoa_location">2 km from city centre.</string>
+    <string-array name="Nagoa_highlights">
+        <item> Famous for its pristine beauty and swaying palm trees, Nagoa Beach in Diu is an ideal and a recommended place for tourists all over the world.</item>
+        <item> The place is well connected with the resorts, hence it making it easy for the travellers to relax and explore its beauty at the same time.</item>
+    </string-array>
+
+
+
+    <string name="Church_title">Saint Paul Church</string>
+    <string name="Church_location">Near Airport Road</string>
+    <string-array name="Church_highlights">
+        <item>St Paul’s Church in Diu is around 400 year old church. It was constructed in the year 1691.</item>
+        <item>It is dedicated to our Lady of Immaculate Conception. Diu St Paul’s Church is considered to be the only church in operation in Diu till date.</item>
+        <item> This 400 year old church shares close similarity with the Bom Jesus Church at Goa.</item>
+    </string-array>
+
+    <string name="hyperlink"><a href="https://goo.gl/maps/dWgR8XRMLTKf5guP7">Map</a></string>
+    <string name="hyperlink2"><a href="http://diu.gov.in/government-hospital-diu.php">More Info.</a></string>
+    <string name="hyperlink3"><a href="https://goo.gl/maps/dzugBv9Q57oHo9BD6">Map</a></string>
+    <string name="hyperlink4"><a href="http://diu.gov.in/government-hospital-diu.php">More Info.</a></string>
+    <string name="hyperlink5"><a href="https://goo.gl/maps/B3mUqy2kuDEGj8fR6">Map</a></string>
+    <string name="hyperlink6"><a href="http://diu.gov.in/chc-whoiswho.php">More Info.</a></string>
+    <string name="hyperlink7"><a href="https://goo.gl/maps/q6oMNyM7vdEvYynz6">Map</a></string>
+    <string name="hyperlink8"><a href="http://diu.gov.in/chc-whoiswho.php">More Info.</a></string>
+    <string name="hyperlink9"><a href="https://goo.gl/maps/53KuBuVDdKXCzn169">Map</a></string>
+    <string name="hyperlink10"><a href="https://www.pmjay.gov.in/dadra-and-nagar-haveli">More Info.</a></string>
+    <string name="title_activity_airports">airports</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bus_stations">bus_stations</string>
+    <string name="title_activity_railway_stations">railway_stations</string>
+</resources>

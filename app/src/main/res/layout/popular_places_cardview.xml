@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="4dp"
+    app:cardElevation="8dp"
+    android:layout_margin="8dp">
+
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/place1"
+            android:layout_width="100dp"
+            android:layout_height="150dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/hotel1" />
+
+        <TextView
+            android:id="@+id/place1_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/place1"
+            android:fontFamily="@font/belgrano"
+            android:text="Diu Sitara"
+            android:textSize="20dp" />
+
+        <RatingBar
+            android:id="@+id/place1_rating"
+            style="@style/Widget.AppCompat.RatingBar.Small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/place1_title"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@+id/place1"
+            android:rating="3.9" />
+
+        <TextView
+            android:id="@+id/place1_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/place1_rating"
+            android:layout_toRightOf="@id/place1"
+            android:layout_marginLeft="10dp"
+            android:layout_margin="8dp"
+            android:text="Near Diu Airport ! vist now" />
+
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

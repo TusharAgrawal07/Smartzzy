@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/about_diu.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_airport.xml" value="0.1" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_ayushman_bharat.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_bus_station.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_buses_and_trains.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_community_health_center.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_cruise.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_flights.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_government_hospital.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_government_offices.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_hospital.xml" value="0.1" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_important_addresses.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_item_detail.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_main.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_old_government_hospital.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_police_station.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_primary_health_center.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_railway_station.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_restaurant_and_cafe.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_taxi_service.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_tour_and_travels.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/activity_weather.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/dash_cardboard.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/details.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/explore_cardview.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/item_listview.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/list_item.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/login.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/menu_header.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/popular_hotel_row_item.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/popular_places_cardview.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/recommende_row_item.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/recommended_details.xml" value="0.23596014492753623" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/signup.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/travel_details.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/layout/user_dashboard.xml" value="0.4106925880923451" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/menu/menu_airports.xml" value="0.25" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/menu/menu_bus_stations.xml" value="0.25" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/menu/menu_railway_stations.xml" value="0.25" />
+        <entry key="..\:/Users/TUSHAR/diuCity/app/src/main/res/menu/nav_menu.xml" value="0.25" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/background_bg.xml" value="0.13651315789473684" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/background_sh.xml" value="0.13651315789473684" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/button_bg.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/card1.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/card2.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/card3.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/card4.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/cart_button_bg.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/cctv_icon.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/coronavirus.xml" value="0.13651315789473684" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/edit_text.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/header_bg.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/hotel_icon.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_account.xml" value="0.2203125" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.17222222222222222" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_bx_cart_2.xml" value="0.2203125" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_bx_share_alt_1.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_group_1675.xml" value="0.1" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_group_400.xml" value="0.2203125" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_group_401.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_heart.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_holiday_vacation.xml" value="0.16018518518518518" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_keyboard_arrow_left_black_24dp.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_launcher_background.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_location.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_location_on_black_24dp.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_menu_black_24dp.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_notification.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_rectangle_344.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_short.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/ic_star_black_24dp.xml" value="0.15092592592592594" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/important_add.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/layout_bg.xml" value="0.1" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/location_map_icon.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/login_bg.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/parking_icon.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/search_bg.xml" value="0.17222222222222222" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/tourism_icon.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/tv_icon.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/drawable/wifi_icon.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/activity_details.xml" value="0.4" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/activity_weather.xml" value="0.14855072463768115" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/asia_food_row_item.xml" value="0.1" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/dash_cardboard.xml" value="0.5" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/details.xml" value="0.2" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/explore_cardview.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/login.xml" value="0.2" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/login_tab.xml" value="0.25" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/menu_header.xml" value="0.33" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/popular_food_row_item.xml" value="0.45927903871829107" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/popular_hotel_row_item.xml" value="0.33" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/popular_places.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/popular_places_cardview.xml" value="0.22" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/recommende_row_item.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/recommended_details.xml" value="0.12631578947368421" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/signup.xml" value="0.25" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/signup_tab.xml" value="0.22" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/user_dashboard.xml" value="0.14" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/weather_page.xml" value="0.25" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/layout/welcome.xml" value="0.1" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/menu/bottom_menu.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/c/diuCity/app/src/main/res/menu/nav_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#41472C</color>
+    <color name="colorAccent">#030304</color>
+    <color name="background">#EAAC98</color>
+    <color name="white">#fff</color>
+
+
+<!--    Dashboard colours -->
+
+    <color name="banner_bg">#F1E9CE</color>
+    <color name="banner_bg_light">#56F1E9CE</color>
+
+<!--    card colors-->
+
+    <color name="card1">#C0EB8F</color>
+    <color name="card2">#E2A4F3</color>
+    <color name="card3">#CBD37E</color>
+    <color name="card4">#92DA95</color>
+
+
+<!--    pie chart-->
+
+
+    <color name="green">#4CAF50</color>
+    <color name="red">#D60B0B</color>
+    <color name="blue">#163FD1</color>
+
+</resources>

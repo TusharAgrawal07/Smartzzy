@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/home_icon"/>
+
+<!--        <item-->
+<!--            android:id="@+id/nav_search"-->
+<!--            android:title="Search"-->
+<!--            android:icon="@drawable/ic_search_black_24dp"/>-->
+
+    </group>
+
+    <item android:title="Know More">
+        <menu>
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_hotel"
+                    android:title="Hotels"
+                    android:icon="@drawable/hotel_icon"/>
+
+                <item
+                    android:id="@+id/nav_transport"
+                    android:title="Transportation"
+                    android:icon="@drawable/transportation"/>
+
+                <item
+                    android:id="@+id/nav_education"
+                    android:title="Markets &amp; Places"
+                    android:icon="@drawable/education_icon"/>
+                <item
+                android:id="@+id/nav_address"
+                android:title="Important Address"
+                android:icon="@drawable/important_add"/>
+
+                <item
+                    android:id="@+id/nav_about"
+                    android:title="About Diu"
+                    android:icon="@drawable/about"/>
+
+
+            </group>
+
+        </menu>
+
+    </item>
+
+</menu>
