@@ -43,7 +43,8 @@
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="10dp"
                             android:paddingRight="5dp"
-                            app:srcCompat="@drawable/ic_keyboard_arrow_left_black_24dp" />
+                            app:srcCompat="@drawable/ic_keyboard_arrow_left_black_24dp"
+                            tools:ignore="VectorDrawableCompat" />
 
                     </RelativeLayout>
 
@@ -433,10 +434,11 @@
                                 android:layout_height="80dp"
                                 android:fontFamily="@font/belgrano"
                                 android:padding="5dp"
-                                android:text="Book now"
+                                android:text="Rooms"
                                 android:textAllCaps="true"
                                 android:textColor="#fff"
-                                android:textSize="20sp" />
+                                android:textSize="20sp"
+                                android:onClick="room_btn"/>
 
 
                             <TextView

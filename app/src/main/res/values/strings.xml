@@ -16,13 +16,11 @@
     </string-array>
 
 
-
     <string name="SECOND_title">Princess Park Shopping Market in Diu</string>
     <string name="SECOND_location">Situated in middle of water</string>
     <string-array name="SECOND_highlights">
         <item>   This is another good place for shopping in Diu as it is most famous for the attractive bamboo items, gift articles etc. Princess Park is the most ideal place for buying handicrafts in Diu and decorative jewelry made of pearls by the local craftsmen.</item>
     </string-array>
-
 
 
     <string name="THIRD_title">ACE Shopping Mall</string>
@@ -32,15 +30,11 @@
     </string-array>
 
 
-
-
     <string name="FOURTH_title"> DMC Market</string>
     <string name="FOURTH_location">Address: Old Vegetable Market, Kavi Khabardar Road</string>
     <string-array name="FOURTH_highlights">
         <item>Locally, the people of Daman call it a Dubai Market. This is because you can bargain and buy a variety of products at an affordable price as in Dubai Souks. You can buy from organic groceries home needs from this market. People mostly come here to buy cheap electronic products. They sell the latest in electronic gadgets, which are lifestyle products too. You can find many souvenir shops without a price tag. Bargaining power is necessary from the consumer side to shop from this market in Daman.</item>
     </string-array>
-
-
 
 
     <string name="FIFTH_title">Mangal Market</string>
@@ -50,18 +44,12 @@
     </string-array>
 
 
-
-
     <string name="Park_title"> MALL JOYTI PARK</string>
     <string name="Park_location">Near Diu Fort</string>
     <string-array name="Park_highlights">
         <item>This is one of the top places for shopping in Daman. This is the best place for tourists to avail of money exchange, tours, and travel-related service providers. You can buy the latest fashion clothing for kids, men, and women. There are top brands clothing stores in this shopping mall. People interested in buying mini electronics can find many affordable electronic shops. Apart from shopping, you can have food and seek entertainment from this mall. It will take a half a day to explore this 3-floor mall in a commercial and residential complex in Daman. It has parking places in front of this mall.</item>
 
     </string-array>
-
-
-
-
 
 
     <string name="IIITVICD_title">IIITV-ICD</string>
@@ -82,14 +70,12 @@
     </string-array>
 
 
-
     <string name="DIUCLG_title">DIU COLLEGE</string>
     <string name="DIUCLG_location">Near Railway Station </string>
     <string-array name="DIUCLG_highlights">
         <item>College that provide higher eduction about B.A/B.COM .</item>
         <item>DIU COLLEGE, DIU Diu Higher Education Society, Diu (Affiliated to Saurashtra University, Rajkot) Phone: 02875 254115 Email: diucollege.diu-dd@nic.in, diucollege@gmail.com</item>
     </string-array>
-
 
 
     <string name="GALAXY_title">Galaxy English Medium School</string>
@@ -102,7 +88,6 @@ Co-Educational School
 Established in 1985</item>
 
     </string-array>
-
 
 
     <string name="JAWAHAR_title">Jawahar Navodaya Vidyalaya </string>
@@ -151,9 +136,7 @@ Co-Educational School</item>
 
     <string name="Fort_title">Diu Fort</string>
     <string name="Fort_location">Fort Road, Near PWD Office</string>
-    <string-array name="Fort_highlights">
-    </string-array>
-
+    <string-array name="Fort_highlights"></string-array>
 
 
     <string name="Albert_hall_title">Diu Museum</string>
@@ -162,7 +145,6 @@ Co-Educational School</item>
         <item>Diu Museum St. Thomas Church, Diu The old St. Thomas Church has been converted into a museum which houses antique statues, various stone inscriptions of the earlier rulers</item>
         <item>The church had been built in 1598 but was later converted into a museum. </item>
     </string-array>
-
 
 
     <string name="Naida_title">Naida Caves</string>
@@ -174,7 +156,6 @@ Co-Educational School</item>
     </string-array>
 
 
-
     <string name="Jampore_title">Jampore Beach</string>
     <string name="Jampore_location"> Near,Diu Fort</string>
     <string-array name="Jampore_highlights">
@@ -184,14 +165,12 @@ Co-Educational School</item>
     </string-array>
 
 
-
     <string name="Nagoa_title">Nagoa Beach</string>
     <string name="Nagoa_location">2 km from city centre.</string>
     <string-array name="Nagoa_highlights">
         <item> Famous for its pristine beauty and swaying palm trees, Nagoa Beach in Diu is an ideal and a recommended place for tourists all over the world.</item>
         <item> The place is well connected with the resorts, hence it making it easy for the travellers to relax and explore its beauty at the same time.</item>
     </string-array>
-
 
 
     <string name="Church_title">Saint Paul Church</string>

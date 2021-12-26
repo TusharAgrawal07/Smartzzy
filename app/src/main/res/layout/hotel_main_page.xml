@@ -29,7 +29,8 @@
                 android:textColor="#272677"
                 android:textSize="24sp"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
+                app:layout_constraintTop_toTopOf="parent"
+                android:layout_marginLeft="16dp" />
 
             <ImageView
                 android:id="@+id/imageView2"
@@ -40,7 +41,7 @@
                 android:layout_marginTop="25dp"
                 android:layout_marginRight="23dp"
                 app:srcCompat="@drawable/ic_notification"
-                tools:ignore="MissingConstraints">
+                tools:ignore="MissingConstraints,VectorDrawableCompat">
 
             </ImageView>
         </RelativeLayout>

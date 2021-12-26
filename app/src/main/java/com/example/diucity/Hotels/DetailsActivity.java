@@ -2,7 +2,9 @@ package com.example.diucity.Hotels;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -27,5 +29,10 @@ public class DetailsActivity extends AppCompatActivity {
         placeView.setText(getIntent().getStringExtra("hotel_place"));
         prizeView.setText(getIntent().getStringExtra("prize_hotel"));
         imageView.setImageResource(getIntent().getExtras().getInt("hotelname",0));
+    }
+
+    public void room_btn(View view) {
+        Intent room_i = new Intent(this,Room_Activity.class);
+        startActivity(room_i);
     }
 }

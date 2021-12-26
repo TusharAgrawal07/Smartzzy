@@ -434,7 +434,8 @@
                                 android:gravity="center"
                                 android:text="Visit Now"
                                 android:textSize="20sp"
-                                android:background="@drawable/button_bg"/>
+                                android:background="@drawable/button_bg"
+                                android:onClick="click_visit"/>
 
 
                         </LinearLayout>
