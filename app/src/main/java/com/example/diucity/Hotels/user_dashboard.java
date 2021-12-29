@@ -218,7 +218,7 @@ public class user_dashboard extends AppCompatActivity implements NavigationView.
     }
 
     public void click_hotel(View view) {
-        Intent hotel_btn= new Intent(this, Hotel_main_page.class);
+        Intent hotel_btn = new Intent(this, Hotel_main_page.class);
         startActivity(hotel_btn);
     }
 
